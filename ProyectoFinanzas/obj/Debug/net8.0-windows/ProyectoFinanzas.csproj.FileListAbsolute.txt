@@ -1,0 +1,58 @@
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.exe
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.deps.json
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.runtimeconfig.json
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.dll
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.pdb
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.Form1.resources
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.FrmBalanceYEstado.resources
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.AssemblyInfo.cs
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.dll
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\refint\ProyectoFinanzas.dll
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.pdb
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.genruntimeconfig.cache
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ref\ProyectoFinanzas.dll
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.FrmInicio.resources
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.exe
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.deps.json
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.runtimeconfig.json
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.dll
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.pdb
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.Form1.resources
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.FrmBalanceYEstado.resources
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.FrmInicio.resources
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.Properties.Resources.resources
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.AssemblyInfoInputs.cache
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.AssemblyInfo.cs
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.dll
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\refint\ProyectoFinanzas.dll
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.pdb
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.genruntimeconfig.cache
+C:\Users\DELL 5580\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ref\ProyectoFinanzas.dll
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.exe
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.deps.json
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.runtimeconfig.json
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.dll
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\bin\Debug\net8.0-windows\ProyectoFinanzas.pdb
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.Form1.resources
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.FrmBalanceYEstado.resources
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.FrmInicio.resources
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.Properties.Resources.resources
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.AssemblyInfo.cs
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.dll
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\refint\ProyectoFinanzas.dll
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.pdb
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.genruntimeconfig.cache
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ref\ProyectoFinanzas.dll
+C:\Users\PC\Desktop\ProyectoFinanzas\ProyectoFinanzas\obj\Debug\net8.0-windows\ProyectoFinanzas.frmRazones.resources
